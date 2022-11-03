@@ -14,7 +14,7 @@ module.exports = {
         'main-bg': '#FAFBFB',
         'main-dark-bg': '#20232A',
         'secondary-dark-bg': '#33373E',
-        'light-gray': '#F7F7F7',
+        'light-gray': '#E4E4E4',
         'half-transparent': 'rgba(0, 0, 0, 0.5)',
       },
       borderWidth: {
